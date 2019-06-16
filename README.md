@@ -1,4 +1,4 @@
-# CityWeatherApp
+# City Weather App
 Weather app which uses openweathermap.org for getting city weather condition
 
 
